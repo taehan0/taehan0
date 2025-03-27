@@ -1,4 +1,7 @@
 # Taehan Kim
+
+Hongik univ. Computer engineering
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taehan0)](https://solved.ac/taehan0/)
 
 # Language ✍🏽
