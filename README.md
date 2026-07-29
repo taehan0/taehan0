@@ -2,7 +2,6 @@
 
 ## Hongik univ. Computer engineering
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taehan0)](https://solved.ac/taehan0/)
 
 ## Language ✍🏽
 ![cplusplus](https://img.shields.io/badge/c++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
