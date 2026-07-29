@@ -1,6 +1,10 @@
-# Taehan Kim
+# Hongik univ. Computer engineering
 
-## Hongik univ. Computer engineering
+## Projects
+
+- There Is a Criminal Among Us: 재고관리 프로그램
+- GollaZoom: 옷장 관리 프로그램
+- BS ClubIn: 동아리 행사 관리 프로그램
 
 
 ## Language ✍🏽
