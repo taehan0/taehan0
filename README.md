@@ -60,3 +60,14 @@ A web service for managing event registration and attendance for the BrainSwords
 - Tech stack: Java, Spring Boot, JPA, MySQL, Swagger
 - Workflow: GitHub Issues, branches, and pull requests
 - [Backend Repository](https://github.com/taehan0/BrainSwords-ClubIn-Backend)
+
+### TRAIDE
+
+An iOS service that helps users find exercise partners, share their sports skills, and arrange activities together.
+
+- Type: GDG Hajithon team project
+- Role: Backend Developer
+- Responsibilities: Appointment and review APIs, sports and region data, profile image handling, Firebase authentication integration, and iOS API collaboration
+- Key features: Exercise partner recommendations, friend requests, appointments, reviews, and Firebase-based chat
+- Tech stack: Java 17, Spring Boot, JPA, MySQL, Spring Security, JWT, Firebase Admin SDK, Swagger
+- [Backend Repository](https://github.com/2026-hajithon/2026-team04-TRAIDE-server)
